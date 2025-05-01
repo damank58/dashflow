@@ -9,3 +9,5 @@ DashFlow:
 - Smart database connectors (SQL, NoSQL, cloud DBs)
 - AI-driven insight generation and summarization
 - Embeddable and customizable agent workflows
+
+<img width="1683" alt="image" src="https://github.com/user-attachments/assets/712970cd-39a7-48af-9e11-e34f294ee68a" />
