@@ -10,4 +10,8 @@ DashFlow:
 - AI-driven insight generation and summarization
 - Embeddable and customizable agent workflows
 
+DashFlow Dashboard
 <img width="1683" alt="image" src="https://github.com/user-attachments/assets/712970cd-39a7-48af-9e11-e34f294ee68a" />
+
+LangGraph Flow
+![image](https://github.com/user-attachments/assets/9dc0521e-671f-4220-993c-0bbc878c37a2)
