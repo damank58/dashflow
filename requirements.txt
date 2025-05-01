@@ -1,0 +1,13 @@
+streamlit
+openai
+langchain
+psycopg2-binary
+sqlalchemy
+pandas
+langgraph
+langchain_openai
+python-dotenv
+watchdog
+matplotlib
+seaborn
+plotly
